@@ -1,0 +1,19 @@
+[
+  {
+    "id": "test_01",
+    "title": "Test Task",
+    "subject": "Math",
+    "topic": "Addition",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "question": "What is 2 + 3?",
+    "answers": [
+      { "id": "answer-1", "text": "4" },
+      { "id": "answer-2", "text": "5" }
+    ],
+    "correctAnswerId": "answer-2",
+    "feedbackCorrect": "Correct.",
+    "feedbackWrong": "Try again.",
+    "theme": "minimal"
+  }
+]
