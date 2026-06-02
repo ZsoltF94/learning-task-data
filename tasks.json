@@ -9,7 +9,8 @@
     "question": "What is 2 + 3?",
     "answers": [
       { "id": "answer-1", "text": "4" },
-      { "id": "answer-2", "text": "5" }
+      { "id": "answer-2", "text": "5" },
+      { "id": "answer-3", "text": "10" }
     ],
     "correctAnswerId": "answer-2",
     "feedbackCorrect": "Correct.",
